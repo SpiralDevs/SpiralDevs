@@ -1,7 +1,5 @@
 # Join The Gorilla Tag Modding Discord: https://discord.gg/YSQmmcb68y 
-# spiralgaming
-
-[<b>My Youtube</b>](https://youtube.com/spiralgamingtv)
+# spiral
 
 [<b>Gorilla Tag Discord</b>](https://discord.gg/YSQmmcb68y)
 
