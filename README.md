@@ -6,13 +6,18 @@
 
 <details><summary>Portfolio</summary>
   
+  # My Apps
+  
   <details><summary>My Apps</summary>
     
   <details><summary>Texter</summary>
     
   [Texter Github Link](https://github.com/SpiralGaming/Texter)
+    
   [Texter .zip download](https://github.com/SpiralGaming/Texter/releases/download/v1.0.0/Texter.zip)
+    
   [Texter .msi download](https://github.com/SpiralGaming/Texter/releases/download/v1.0.0/Setup.msi)
+    
   [Texter .exe download](https://github.com/SpiralGaming/Texter/releases/download/v1.0.0/setup.exe)  
     
   </details>  
@@ -20,8 +25,11 @@
   <details><summary>Counter</summary>
     
   [Counter Github Link](https://github.com/SpiralGaming/Counter)
+    
   [Counter .zip download](https://github.com/SpiralGaming/Counter/releases/download/v1.0.0/Counter.zip)
+    
   [Counter .msi download](https://github.com/SpiralGaming/Counter/releases/download/v1.0.0/Setup.Counter.msi)
+    
   [Counter .exe download](https://github.com/SpiralGaming/Counter/releases/download/v1.0.0/setup.exe)
     
   </details>
@@ -40,7 +48,8 @@
   
   </details>
     
-    
+  # My Games
+  
   <details><summary>My Games</summary>
 
     
@@ -60,12 +69,3 @@
   </details>
   
  </details>
-
-
-
-
-# My Apps
-## 
-
-
-# My Games
