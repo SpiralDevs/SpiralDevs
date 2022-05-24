@@ -1,10 +1,11 @@
-# Info
+<h1 align="center">Info</h1>
+<h4 align="center"><b>Hi, I'm Spiral</b></h2>
 
-[<b>Gorilla Tag Discord</b>](https://discord.gg/YSQmmcb68y)
+<h4 align="center"><b>My Discord Spiral#1234</b></h4>
 
-<h4><b>My Discord Spiral#1234</b></h4>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spiralgaming&label=Profile%20views&color=0e75b6&style=flat" alt="spiralgaming" /> </p>
 
-<details><summary>Portfolio</summary>
+<details align="center"><summary>Portfolio</summary>
   
   # My Apps
   
@@ -49,6 +50,8 @@
   </details>
     
   # My Games
+  
+  
   
   <details><summary>My Games</summary>
 
@@ -223,14 +226,19 @@ while True:
     
   </details>
    
-    <details><summary>Python Number Generator</summary>
+   <details><summary>Python Number Generator</summary>
       
-      [Python Number Generator](https://github.com/SpiralGaming/Python-Number-Generator)
-      [Python Number Generator .exe download](https://github.com/SpiralGaming/Python-Number-Generator/releases/download/v1.0.0/random.number.generator.exe)
-      [Python Number Generator .py download](https://github.com/SpiralGaming/Python-Number-Generator/releases/download/v1.0.0/random.number.generator.py)
+   [Python Number Generator](https://github.com/SpiralGaming/Python-Number-Generator)
+     
+   [Python Number Generator .exe download](https://github.com/SpiralGaming/Python-Number-Generator/releases/download/v1.0.0/random.number.generator.exe)
+     
+   [Python Number Generator .py download](https://github.com/SpiralGaming/Python-Number-Generator/releases/download/v1.0.0/random.number.generator.py)
+     
+     
+     
       
-      ```Python
-      #random number generator - by Spiral
+```Python
+#random number generator - by Spiral
 import random
 #prints ui
 print("Type help for help")
@@ -285,12 +293,22 @@ while True:
                     print("Error: second number is larger than first number")            
         else:
             print("Invalid Choice")
-
-      ```
+```
       
       
     </details>
     
+
   </details>
-  
- </details>
+  </details>
+      
+      
+      
+      
+      
+      
+      
+   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiralgaming&show_icons=true&locale=en&layout=compact" alt="spiralgaming" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiralgaming&show_icons=true&locale=en" alt="spiralgaming" /></p>
+</details>
