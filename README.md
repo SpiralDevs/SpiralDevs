@@ -1,5 +1,5 @@
 <h1 align="center">Info</h1>
-<h4 align="center"><b>Hi, I'm Spiral; I'm a game developer/programmer who loves making things using code. I know how to code in c#, javascript, python, html, css, and </b></h2>
+<h4 align="center"><b>Hi, I'm Spiral; I'm a game developer/programmer who loves making things using code. I know how to code in c#, javascript, python, html, and css </b></h2>
 
 <h4 align="center"><b>My Discord Spiral#1234</b></h4>
 
