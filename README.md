@@ -487,6 +487,8 @@ while True:
     </details>
   </details>
   </details>
+  
+  # Stats
 <details align="center" ><summary>Profile Stats</summary>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiralgaming&show_icons=true&locale=en&layout=compact" alt="spiralgaming" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiralgaming&show_icons=true&locale=en" alt="spiralgaming" /></p>
