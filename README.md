@@ -3,7 +3,7 @@
 
 <h4 align="center"><b>My Discord Spiral#1234</b></h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spiralgaming&label=Profile%20views&color=0e75b6&style=flat" alt="spiralgaming" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spiralgaming&label=Profile%20views&color=0e75b6&style=flat" alt="spiraldevs" /> </p>
 
 <details align="center"><summary>Portfolio</summary>
   
@@ -490,7 +490,7 @@ while True:
   
   # Stats
 <details align="center" ><summary>Profile Stats</summary>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiralgaming&show_icons=true&locale=en&layout=compact" alt="spiralgaming" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiralgaming&show_icons=true&locale=en" alt="spiralgaming" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiraldevs&show_icons=true&locale=en&layout=compact" alt="spiraldevs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiraldevs&show_icons=true&locale=en" alt="spiraldevs" /></p>
 </details>
 </details>
